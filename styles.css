@@ -222,7 +222,7 @@ label .cross {
 #events .list .swiper-wrapper {
     width: 100%;
     display: flex;
-    overflow: scroll;
+    overflow-x: scroll;
     /* scrollbar-width: none; */
 }
 
