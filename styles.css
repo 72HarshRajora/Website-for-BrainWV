@@ -147,7 +147,7 @@ label .menu {
     height: 30px;
     width: 30px;
     object-fit: contain;
-    position: absolute;
+    position: fixed;
     z-index: 15;
     top: 14px;
     right: 28px;
