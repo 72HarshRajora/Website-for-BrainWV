@@ -352,6 +352,7 @@ label .cross {
 
 .services .service-list .service-item a .service-item-right {
     margin: 0px 14px;
+    width: 874px;
     position: relative;
 }
 
