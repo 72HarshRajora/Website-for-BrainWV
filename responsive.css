@@ -251,6 +251,10 @@
         width: 190px;
     }
 
+    .services .service-list .service-item a .service-item-right {
+    width: 300px;
+    }
+
     .services .service-list .service-item a .service-item-right h2 {
         font-size: 28px;
         height: 28px;
@@ -421,6 +425,10 @@
     .services .service-list .service-item a img {
         height: 118px;
         width: 154px;
+    }
+
+    .services .service-list .service-item a .service-item-right {
+    width: 142px;
     }
 
     .services .service-list .service-item a .service-item-right h2 {
