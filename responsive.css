@@ -22,6 +22,10 @@
         width: 1034px;
     }
 
+    .services .service-list .service-item a .service-item-right{
+        width: 670px;
+    }
+
     .services .service-list .service-item a .service-item-right button {
         bottom: 14px;
     }
@@ -88,6 +92,10 @@
 
     .services {
         width: 780px;
+    }
+
+    .services .service-list .service-item a .service-item-right{
+        width: 456px;
     }
 
     .services .service-list .service-item a .service-item-right button {
